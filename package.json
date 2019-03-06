@@ -1,0 +1,23 @@
+{
+  "name": "shopify-stock-report",
+  "version": "1.0.0",
+  "description": "This is a simple function that will retrieve the status of the node-shopify-stock-update process and send a notification to AWS SNS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswanevelder/node-shopify-stock-report.git"
+  },
+  "keywords": [
+    "node",
+    "sns"
+  ],
+  "author": "Anton Swanevelder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aswanevelder/node-shopify-stock-report/issues"
+  },
+  "homepage": "https://github.com/aswanevelder/node-shopify-stock-report#readme"
+}
